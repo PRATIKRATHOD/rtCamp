@@ -1,5 +1,5 @@
 # rtCamp
-## This is the wordpress assignment given by rtCamp
+### This is the wordpress assignment given by rtCamp
 
 # About this Assignment
 ## In this assignment a theme have to create using wordpress PSD file is provided bt the rtCamp which contain
